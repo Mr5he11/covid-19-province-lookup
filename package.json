@@ -10,7 +10,7 @@
     "animate.css": "^4.1.0",
     "body-scroll-lock": "^3.0.2",
     "bootstrap": "^4.5.0",
-    "highcharts": "^8.1.1",
+    "highcharts": "^9.0.0",
     "jquery": "^3.5.1",
     "lodash": "^4.17.19",
     "node-sass": "^4.14.1",
